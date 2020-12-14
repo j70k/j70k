@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **learning** Programmer, Composer, Photographer, and Game creator.
+I'm a **learning** Programmer, Composer, Photographer, and Game Creator.
 
 An emphasis on the **learning.**
 
