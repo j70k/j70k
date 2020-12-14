@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm someone...
+I'm a **learning** Programmer, Composer, and Game creator.
 
+An emphasis on the **learning.**
 ![JrOK Stats](https://github-readme-stats.vercel.app/api?username=jr-ok&theme=dark&show_icons=true)
 
 
