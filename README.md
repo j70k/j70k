@@ -5,7 +5,7 @@ I'm a **learning** Programmer, Composer, Photographer, and Game Creator.
 An emphasis on the **learning.**
 
 ### My 
-<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/jr-ok/jr-okr/blob/master/lslogo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/jr-ok/jr-ok/blob/master/lslogo.png" height="30px" width="30px"/><a/>
 <a src="https://vuejs.org/"><img align="left" alt="Vue" src="https://github.com/eramsorgr/eramsorgr/blob/master/VueJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
 <a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/eramsorgr/eramsorgr/blob/master/VSCI-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
  <a src="https://www.jetbrains.com/"><img align="left" alt="Jetbrains" src="https://github.com/eramsorgr/eramsorgr/blob/master/jetbrains.png?raw=true" height="30px" width="30px"/><a/>
