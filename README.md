@@ -4,7 +4,7 @@ I'm a **learning** Programmer, Composer, Photographer, and Game Creator.
 
 An emphasis on the **learning.**
 
-### My 
+### My Stats
 
 ![JrOK Stats](https://github-readme-stats.vercel.app/api?username=jr-ok&theme=dark&show_icons=true)
 
