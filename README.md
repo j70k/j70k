@@ -1,13 +1,14 @@
-### Hi there 👋
+### hi, i'm jro_k.
 
-I'm a **learning** Programmer, Composer, Photographer, and Game Creator.
+i am someone on the internet 
 
-An emphasis on the **learning.**
+i do coding for a hobby
 
-### My Stats
+### stats
 
 ![JrOK Stats](https://github-readme-stats.vercel.app/api?username=jr-ok&theme=dark&show_icons=true)
 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-ok&layout=compact&theme=dark)
+
