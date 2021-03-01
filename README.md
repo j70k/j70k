@@ -1,8 +1,6 @@
 # hi, i'm jro_k.
 
-i am someone on the internet 
-
-i do coding for a hobby
+i am someone on the internet, coding as a hobby.
 
 ### stats
 
