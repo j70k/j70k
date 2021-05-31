@@ -1,6 +1,8 @@
-# hi, i'm jro_k.
+# yo, i'm JrOK. (Jr... maker of things... breaker of things..)
 
-i am someone on the internet, coding as a hobby.
+i make things, i break things, i'm Jr.
+
+nodejs !!!
 
 ### stats
 
