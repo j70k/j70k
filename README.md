@@ -2,7 +2,11 @@
 
 i make things, i break things, i'm Jr.
 
-nodejs !!!
+they/them, he/him 
+
+i use stack overflow a lot...
+
+aha.
 
 ### stats
 
