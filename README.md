@@ -1,5 +1,5 @@
 # fixing things... as always.
 
-**laura bodewig profile picture, bzzz, paging captain obvious**
+**ika musume profile picture**
 
 my little about me :D
