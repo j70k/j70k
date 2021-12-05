@@ -1,5 +1,5 @@
-# fixing things... as always.
+# jrok is me
+## "fixing things... as always!"
 
-**ika musume profile picture**
-
-my little about me :D
+hi, i'm jr
+i make stuff
